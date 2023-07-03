@@ -1,0 +1,245 @@
+{
+    "preguntas": [
+      {
+        "id": 1,
+        "enunciado": "¿Cuál es la capital de Francia?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "Londres"
+          },
+          {
+            "nombre": "b",
+            "contenido": "Madrid"
+          },
+          {
+            "nombre": "c",
+            "contenido": "París"
+          },
+          {
+            "nombre": "d",
+            "contenido": "Berlín"
+          }
+        ],
+        "correcta": "c",
+        "descripcion": "La capital de Francia es París, conocida como la Ciudad de la Luz y famosa por la Torre Eiffel."
+      },
+      {
+        "id": 2,
+        "enunciado": "¿Cuál es el río más largo del mundo?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "Amazonas"
+          },
+          {
+            "nombre": "b",
+            "contenido": "Nilo"
+          },
+          {
+            "nombre": "c",
+            "contenido": "Mississippi"
+          },
+          {
+            "nombre": "d",
+            "contenido": "Yangtsé"
+          }
+        ],
+        "correcta": "a",
+        "descripcion": "El río Amazonas es el más largo del mundo, con una longitud de aproximadamente 6,400 kilómetros."
+      },
+      {
+        "id": 3,
+        "enunciado": "¿Quién escribió la novela 'Cien años de soledad'?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "Gabriel García Márquez"
+          },
+          {
+            "nombre": "b",
+            "contenido": "Pablo Neruda"
+          },
+          {
+            "nombre": "c",
+            "contenido": "Jorge Luis Borges"
+          },
+          {
+            "nombre": "d",
+            "contenido": "Mario Vargas Llosa"
+          }
+        ],
+        "correcta": "a",
+        "descripcion": "'Cien años de soledad' fue escrita por Gabriel García Márquez, uno de los más destacados escritores latinoamericanos."
+      },
+      {
+        "id": 4,
+        "enunciado": "¿En qué año se llevó a cabo la Revolución Rusa?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "1917"
+          },
+          {
+            "nombre": "b",
+            "contenido": "1905"
+          },
+          {
+            "nombre": "c",
+            "contenido": "1921"
+          },
+          {
+            "nombre": "d",
+            "contenido": "1945"
+          }
+        ],
+        "correcta": "a",
+        "descripcion": "La Revolución Rusa tuvo lugar en 1917 y marcó el inicio de la era soviética en Rusia."
+      },
+      {
+        "id": 5,
+        "enunciado": "¿Cuál es el país más poblado del mundo?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "India"
+          },
+          {
+            "nombre": "b",
+            "contenido": "China"
+          },
+          {
+            "nombre": "c",
+            "contenido": "Estados Unidos"
+          },
+          {
+            "nombre": "d",
+            "contenido": "Brasil"
+          }
+        ],
+        "correcta": "b",
+        "descripcion": "China es el país más poblado del mundo, con una población de más de 1.4 mil millones de habitantes."
+      },
+      {
+        "id": 6,
+        "enunciado": "¿Cuál es el metal más abundante en la corteza terrestre?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "Hierro"
+          },
+          {
+            "nombre": "b",
+            "contenido": "Aluminio"
+          },
+          {
+            "nombre": "c",
+            "contenido": "Oro"
+          },
+          {
+            "nombre": "d",
+            "contenido": "Plata"
+          }
+        ],
+        "correcta": "b",
+        "descripcion": "El aluminio es el metal más abundante en la corteza terrestre, constituyendo aproximadamente el 8% de su masa."
+      },
+      {
+        "id": 7,
+        "enunciado": "¿Cuál es la montaña más alta del mundo?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "Monte Everest"
+          },
+          {
+            "nombre": "b",
+            "contenido": "Monte Kilimanjaro"
+          },
+          {
+            "nombre": "c",
+            "contenido": "Monte Aconcagua"
+          },
+          {
+            "nombre": "d",
+            "contenido": "Monte McKinley"
+          }
+        ],
+        "correcta": "a",
+        "descripcion": "El Monte Everest es la montaña más alta del mundo, con una altura de 8,848 metros sobre el nivel del mar."
+      },
+      {
+        "id": 8,
+        "enunciado": "¿Quién pintó 'La noche estrellada'?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "Pablo Picasso"
+          },
+          {
+            "nombre": "b",
+            "contenido": "Vincent van Gogh"
+          },
+          {
+            "nombre": "c",
+            "contenido": "Leonardo da Vinci"
+          },
+          {
+            "nombre": "d",
+            "contenido": "Salvador Dalí"
+          }
+        ],
+        "correcta": "b",
+        "descripcion": "'La noche estrellada' fue pintada por Vincent van Gogh, uno de los grandes maestros del arte impresionista."
+      },
+      {
+        "id": 9,
+        "enunciado": "¿En qué año se declaró la independencia de Estados Unidos?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "1776"
+          },
+          {
+            "nombre": "b",
+            "contenido": "1789"
+          },
+          {
+            "nombre": "c",
+            "contenido": "1804"
+          },
+          {
+            "nombre": "d",
+            "contenido": "1821"
+          }
+        ],
+        "correcta": "a",
+        "descripcion": "La independencia de Estados Unidos fue declarada en el año 1776, marcando el inicio de su historia como nación independiente."
+      },
+      {
+        "id": 10,
+        "enunciado": "¿Cuál es el instrumento musical de viento más antiguo?",
+        "respuestas": [
+          {
+            "nombre": "a",
+            "contenido": "Flauta"
+          },
+          {
+            "nombre": "b",
+            "contenido": "Trompeta"
+          },
+          {
+            "nombre": "c",
+            "contenido": "Trombón"
+          },
+          {
+            "nombre": "d",
+            "contenido": "Saxofón"
+          }
+        ],
+        "correcta": "a",
+        "descripcion": "La flauta es uno de los instrumentos musicales de viento más antiguos, con evidencias de su existencia desde la prehistoria."
+      }
+    ]
+  }
+  
