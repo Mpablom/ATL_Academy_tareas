@@ -1,246 +1,244 @@
 {
-    "trivia":{
-        "preguntas":[
-            {
-                "id":1,
-                "enunciado":"¿Qué es un lenguaje de programación?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Un conjunto de instrucciones que le dice a una computadora qué hacer."
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Un dispositivo utilizado para programar computadoras."
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Un programa de edición de texto para escribir código."
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"Una unidad de almacenamiento en una computadora."
-                    }
-                ],
-                "correcta":"a",
-                "descripcion":" Un lenguaje de programación es un conjunto de reglas y símbolos utilizados para escribir instrucciones que una computadora puede entender y ejecutar."
-            },
-            {
-                "id":2,
-                "enunciado":"¿Cuál de los siguientes lenguajes de programación es de tipo orientado a objetos?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"C"
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Python"
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Assembly"
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"SQL"
-                    }
-                ],
-                "correcta":"b",
-                "descripcion":" Python es un lenguaje de programación de alto nivel y multipropósito que se caracteriza por ser orientado a objetos, lo que significa que se centra en la creación y manipulación de objetos."
-            },
-            {
-                "id":3,
-                "enunciado":"¿Qué es un bucle en programación?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Una estructura de datos utilizada para almacenar valores relacionados."
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Un tipo de error en el código."
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Un conjunto de instrucciones que se repiten varias veces."
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"Una función incorporada en un lenguaje de programación."
-                    }
-                ],
-                "correcta":"c",
-                "descripcion":"Un bucle es una estructura de control que permite ejecutar un conjunto de instrucciones repetidamente mientras se cumpla una condición específica."
-            },
-            {
-                "id":4,
-                "enunciado":"¿Qué es HTML?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Un lenguaje de programación para crear páginas web."
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Un sistema operativo."
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Un lenguaje de consulta de bases de datos."
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"Una herramienta de diseño gráfico."
-                    }
-                ],
-                "correcta":"c",
-                "descripcion":"HTML (HyperText Markup Language) es un lenguaje de marcado utilizado para crear la estructura y el contenido de páginas web."
-            },
-            {
-                "id":5,
-                "enunciado":"¿Qué es una variable en programación?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Una función matemática utilizada en algoritmos."
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Una estructura de datos utilizada para almacenar múltiples valores."
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Un nombre simbólico que representa un valor en la memoria de la computadora."
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"Una instrucción condicional utilizada en bucles."
-                    }
-                ],
-                "correcta":"c",
-                "descripcion":"Una variable es un contenedor con un nombre único utilizado para almacenar un valor en la memoria de un programa. Permite manipular y referirse a ese valor mediante su nombre simbólico."
-            },
-            {
-                "id":6,
-                "enunciado":"¿Qué es la recursividad en programación?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Un método para evitar errores en el código."
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"La capacidad de una función de llamarse a sí misma."
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Una forma de encriptación de datos."
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"Un término utilizado en programación visual."
-                    }
-                ],
-                "correcta":"b",
-                "descripcion":"La recursividad es una técnica en programación donde una función se llama a sí misma para resolver un problema de manera iterativa."
-            },
-            {
-                "id":7,
-                "enunciado":"¿Qué es un algoritmo en programación?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Un error en el código que provoca un mal funcionamiento del programa."
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Un lenguaje de programación muy antiguo."
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Una secuencia de pasos bien definidos para resolver un problema."
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"Un tipo de dato utilizado para almacenar información."
-                    }
-                ],
-                "correcta":"c",
-                "descripcion":"Un algoritmo es un conjunto ordenado de instrucciones o reglas bien definidas que describen la secuencia de pasos necesarios para resolver un problema o llevar a cabo una tarea."
-            },
-            {
-                "id":8,
-                "enunciado":"¿Cuál de las siguientes opciones NO es un lenguaje de programación?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Java"
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Photoshop"
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Ruby"
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"JavaScript"
-                    }
-                ],
-                "correcta":"b",
-                "descripcion":"Photoshop es una herramienta de edición de imágenes, no es un lenguaje de programación. Las otras opciones son lenguajes de programación populares."
-            },
-            {
-                "id":9,
-                "enunciado":"¿Qué es un repositorio en el contexto de la programación?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Un lugar donde se almacenan los archivos fuente de un proyecto."
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Una función de alto nivel utilizada en algoritmos."
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Una variable de tipo especial en Python."
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"Una técnica utilizada para depurar código."
-                    }
-                ],
-                "correcta":"a",
-                "descripcion":"Un repositorio es un espacio o lugar donde se almacenan y gestionan los archivos fuente de un proyecto, generalmente utilizando un sistema de control de versiones como Git."
-            },
-            {
-                "id":10,
-                "enunciado":"¿Qué es un error de sintaxis en programación?",
-                "respuestas":[
-                    {
-                        "nombre":"a",
-                        "contenido":"Un error en la lógica de un programa."
-                    },
-                    {
-                        "nombre":"b",
-                        "contenido":"Un error que ocurre durante la ejecución de un programa."
-                    },
-                    {
-                        "nombre":"c",
-                        "contenido":"Un error en la estructura o escritura del código."
-                    },
-                    {
-                        "nombre":"d",
-                        "contenido":"Un error relacionado con la velocidad de ejecución de un programa."
-                    }
-                ],
-                "correcta":"c",
-                "descripcion":"Un error de sintaxis ocurre cuando el código no sigue las reglas de gramática y estructura del lenguaje de programación, lo que provoca que el programa no se pueda ejecutar correctamente."
-            }
-        ]
-    }
+    "preguntas":[
+        {
+            "id":1,
+            "enunciado":"¿Qué es un lenguaje de programación?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Un conjunto de instrucciones que le dice a una computadora qué hacer."
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Un dispositivo utilizado para programar computadoras."
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Un programa de edición de texto para escribir código."
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"Una unidad de almacenamiento en una computadora."
+                }
+            ],
+            "correcta":"a",
+            "descripcion":" Un lenguaje de programación es un conjunto de reglas y símbolos utilizados para escribir instrucciones que una computadora puede entender y ejecutar."
+        },
+        {
+            "id":2,
+            "enunciado":"¿Cuál de los siguientes lenguajes de programación es de tipo orientado a objetos?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"C"
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Python"
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Assembly"
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"SQL"
+                }
+            ],
+            "correcta":"b",
+            "descripcion":" Python es un lenguaje de programación de alto nivel y multipropósito que se caracteriza por ser orientado a objetos, lo que significa que se centra en la creación y manipulación de objetos."
+        },
+        {
+            "id":3,
+            "enunciado":"¿Qué es un bucle en programación?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Una estructura de datos utilizada para almacenar valores relacionados."
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Un tipo de error en el código."
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Un conjunto de instrucciones que se repiten varias veces."
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"Una función incorporada en un lenguaje de programación."
+                }
+            ],
+            "correcta":"c",
+            "descripcion":"Un bucle es una estructura de control que permite ejecutar un conjunto de instrucciones repetidamente mientras se cumpla una condición específica."
+        },
+        {
+            "id":4,
+            "enunciado":"¿Qué es HTML?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Un lenguaje de programación para crear páginas web."
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Un sistema operativo."
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Un lenguaje de consulta de bases de datos."
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"Una herramienta de diseño gráfico."
+                }
+            ],
+            "correcta":"c",
+            "descripcion":"HTML (HyperText Markup Language) es un lenguaje de marcado utilizado para crear la estructura y el contenido de páginas web."
+        },
+        {
+            "id":5,
+            "enunciado":"¿Qué es una variable en programación?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Una función matemática utilizada en algoritmos."
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Una estructura de datos utilizada para almacenar múltiples valores."
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Un nombre simbólico que representa un valor en la memoria de la computadora."
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"Una instrucción condicional utilizada en bucles."
+                }
+            ],
+            "correcta":"c",
+            "descripcion":"Una variable es un contenedor con un nombre único utilizado para almacenar un valor en la memoria de un programa. Permite manipular y referirse a ese valor mediante su nombre simbólico."
+        },
+        {
+            "id":6,
+            "enunciado":"¿Qué es la recursividad en programación?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Un método para evitar errores en el código."
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"La capacidad de una función de llamarse a sí misma."
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Una forma de encriptación de datos."
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"Un término utilizado en programación visual."
+                }
+            ],
+            "correcta":"b",
+            "descripcion":"La recursividad es una técnica en programación donde una función se llama a sí misma para resolver un problema de manera iterativa."
+        },
+        {
+            "id":7,
+            "enunciado":"¿Qué es un algoritmo en programación?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Un error en el código que provoca un mal funcionamiento del programa."
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Un lenguaje de programación muy antiguo."
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Una secuencia de pasos bien definidos para resolver un problema."
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"Un tipo de dato utilizado para almacenar información."
+                }
+            ],
+            "correcta":"c",
+            "descripcion":"Un algoritmo es un conjunto ordenado de instrucciones o reglas bien definidas que describen la secuencia de pasos necesarios para resolver un problema o llevar a cabo una tarea."
+        },
+        {
+            "id":8,
+            "enunciado":"¿Cuál de las siguientes opciones NO es un lenguaje de programación?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Java"
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Photoshop"
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Ruby"
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"JavaScript"
+                }
+            ],
+            "correcta":"b",
+            "descripcion":"Photoshop es una herramienta de edición de imágenes, no es un lenguaje de programación. Las otras opciones son lenguajes de programación populares."
+        },
+        {
+            "id":9,
+            "enunciado":"¿Qué es un repositorio en el contexto de la programación?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Un lugar donde se almacenan los archivos fuente de un proyecto."
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Una función de alto nivel utilizada en algoritmos."
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Una variable de tipo especial en Python."
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"Una técnica utilizada para depurar código."
+                }
+            ],
+            "correcta":"a",
+            "descripcion":"Un repositorio es un espacio o lugar donde se almacenan y gestionan los archivos fuente de un proyecto, generalmente utilizando un sistema de control de versiones como Git."
+        },
+        {
+            "id":10,
+            "enunciado":"¿Qué es un error de sintaxis en programación?",
+            "respuestas":[
+                {
+                    "nombre":"a",
+                    "contenido":"Un error en la lógica de un programa."
+                },
+                {
+                    "nombre":"b",
+                    "contenido":"Un error que ocurre durante la ejecución de un programa."
+                },
+                {
+                    "nombre":"c",
+                    "contenido":"Un error en la estructura o escritura del código."
+                },
+                {
+                    "nombre":"d",
+                    "contenido":"Un error relacionado con la velocidad de ejecución de un programa."
+                }
+            ],
+            "correcta":"c",
+            "descripcion":"Un error de sintaxis ocurre cuando el código no sigue las reglas de gramática y estructura del lenguaje de programación, lo que provoca que el programa no se pueda ejecutar correctamente."
+        }
+    ]
 }
