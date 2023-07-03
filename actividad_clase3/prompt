@@ -1,0 +1,2 @@
+"POR FAVOR NO HAGAS UNA  INTRODUCCION"solo crea por favor solo el código de un archivo JSON con preguntas y respuestas para un juego de trivia de "10" preguntas, cada vez que llame a este prompt cambia el tema de la trivia.
+Cada pregunta (deben ser 10) debe tener propiedades como el id, el enunciado de la pregunta,un array con cuatro respuestas, las cuales deben tener el nombre y el contenido, la correcta y una descripcion de porque es la respuesta correcta.
