@@ -2,10 +2,10 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Scanner charge = new Scanner(System.in);
-        System.out.println("Ingrese la edad de su perro");
-        Integer ageDog = charge.nextInt();
-        Integer ageHuman = ageDog*7;
-        System.out.println("Su perro tiene "+ageHuman+" años de humano");
+        Scanner uploadAge = new Scanner(System.in);
+        System.out.println("Ingrese su edad:");
+        Integer ageHuman = uploadAge.nextInt();
+        Integer ageDog = ageHuman*7;
+        System.out.println("Usted tiene "+ageDog+" años en edad perro.");
     }
 }
