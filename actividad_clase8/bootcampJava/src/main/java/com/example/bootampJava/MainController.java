@@ -9,4 +9,12 @@ public class MainController {
     public String primeraPrueba(){
         return "Hola Mundo!";
     }
+    @GetMapping("/generar-password")
+    public String generarPassword(){
+        double aleatorio = Math.random() * 1000000;
+        long numeroAleatorio = Math.round(aleatorio);
+
+        String password = "asd"+numeroAleatorio;
+        return password;
+    }
 }
