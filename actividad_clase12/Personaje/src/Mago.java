@@ -5,18 +5,16 @@ public class Mago extends Personaje{
         return porcentajeEnergia;
     }
 
-    public Mago(String nombre) {
+    public Mago(String nombre, int porcentajeEnergia) {
         super(nombre);
-        this.porcentajeEnergia = 100;
+        this.porcentajeEnergia = porcentajeEnergia;
     }
 
     @Override
     public String toString() {
-        return "Mago{" +
-                "porcentajeEnergia=" + porcentajeEnergia +
-                ", nombre='" + nombre + '\'' +
+        return "Mago:"+
+                " nombre='" + nombre + '\'' +
                 ", nivel=" + nivel +
-                ", puntosDeVida=" + puntosDeVida +
-                '}';
+                ", puntosDeVida=" + puntosDeVida;
     }
 }

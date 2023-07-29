@@ -1,3 +1,5 @@
+import java.util.AbstractQueue;
+
 /*
     Luego, crea clases derivadas como "Guerrero",
     "Mago" y "Arquero", que hereden de la clase base y añadan atributos
@@ -10,7 +12,25 @@
 */
 public class Main {
     public static void main(String[] args) {
-        Mago maguito = new Mago("Mago");
-        System.out.println(maguito);
+
+        Guerrero guerrero = new Guerrero("Conan",20);
+        Mago mago = new Mago("Gandalf",30);
+        Arquero arquero = new Arquero("Legolas",100);
+
+        guerrero.atacar(mago);
+        mago.recibirDanio(guerrero.getFuerzaAtaque());
+
+        mago.atacar(arquero);
+        arquero.recibirDanio(mago.getPorcentajeEnergia());
+
+        arquero.atacar(guerrero);
+        guerrero.recibirDanio(arquero.getPorcentajePrecision());
+
+        arquero.atacar(mago);
+        mago.recibirDanio(arquero.getPorcentajePrecision());
+
+        System.out.println(guerrero);
+        System.out.println(mago);
+        System.out.println(arquero);
     }
 }

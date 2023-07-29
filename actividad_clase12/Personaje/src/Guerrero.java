@@ -11,6 +11,14 @@ public class Guerrero extends Personaje{
 
     public Guerrero(String nombre, int fuerzaAtaque) {
         super(nombre);
-        this.fuerzaAtaque = 100;
+        this.fuerzaAtaque = fuerzaAtaque;
+    }
+
+    @Override
+    public String toString() {
+        return "Guerrero:" +
+                " nombre='" + nombre + '\'' +
+                ", nivel=" + nivel +
+                ", puntosDeVida=" + puntosDeVida;
     }
 }

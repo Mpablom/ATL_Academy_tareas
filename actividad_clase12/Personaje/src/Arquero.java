@@ -11,6 +11,14 @@ public class Arquero extends Personaje{
 
     public Arquero(String nombre, int porcentajePrecision) {
         super(nombre);
-        this.porcentajePrecision = 100;
+        this.porcentajePrecision = porcentajePrecision;
+    }
+
+    @Override
+    public String toString() {
+        return "Arquero:" +
+                " nombre='" + nombre + '\'' +
+                ", nivel=" + nivel +
+                ", puntosDeVida=" + puntosDeVida;
     }
 }
